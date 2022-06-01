@@ -1,0 +1,25 @@
+{
+  "name": "primeirosite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exemplo.js",
+  "scripts": {
+    "dev": "next dev"  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiogoMoreira4/PrimeiroSite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiogoMoreira4/PrimeiroSite/issues"
+  },
+  "homepage": "https://github.com/DiogoMoreira4/PrimeiroSite#readme",
+  "dependencies": {
+    "next": "^12.1.6",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
