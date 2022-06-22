@@ -7,7 +7,7 @@ export default function Home(){
         <title>Primeiro Site</title>
         <Link href="/sobre">
             <a>Visitar a página Sobre</a> 
-            <a>Vai ver se está a chover, eu não vou ao Pingo Doce</a>
+            <h1>Vai ver se está a chover, eu não vou ao Pingo Doce</h1>
         </Link>
 
     </div>)
